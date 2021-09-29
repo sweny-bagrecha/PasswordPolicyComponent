@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PasswordPolicyComponent</string>
+
+    <string name="passwords_match">Both passwords match</string>
+    <string name="password_policy_title">Your password must meet the following requirement:</string>
+    <string name="password_policy_point1">\u2022  At least one lower and upper case letter</string>
+    <string name="password_policy_point2">\u2022  At least one number</string>
+    <string name="password_policy_point3">\u2022  At least one special character</string>
+    <string name="password_policy_point4">\u2022  Eight to fifteen characters in length</string>
+
+    <string name="new_password">New password</string>
+    <string name="verify_reset">Verify and reset password</string>
+    <string name="password_confirm_same">Passwords do not match.</string>
+
+    <string name="confirm_reset_password">Confirm password</string>
+    <string name="criteria_min_8_15_len">Minimum 8 to 15 characters in length</string>
+    <string name="criteria_at_least_1_special">At least one special character</string>
+    <string name="criteria_one_number">At least one number</string>
+    <string name="criteria_upper_lower">At least one lower and upper case letters</string>
+
+    <string name="save_password">SAVE</string>
+</resources>
